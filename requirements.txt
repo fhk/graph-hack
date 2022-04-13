@@ -1,0 +1,8 @@
+pyTigerGraph
+notebook
+jupyter
+ipython
+matplotlib
+networkx
+geopandas
+h3pandas
